@@ -55,14 +55,14 @@ Make sure you have the following installed on your system:
    cd Frontend
    npm run dev
    ```
-   This will start the customer-facing frontend on `http://localhost:5173`.
+  
 
 3. **Start the Admin Dashboard**:
    ```bash
    cd Admin
    npm run dev
    ```
-   This will start the admin dashboard on `http://localhost:5174`.
+  
 
 ### Environment Variables
 
